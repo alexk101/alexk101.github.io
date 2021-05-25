@@ -36,6 +36,8 @@ Though the program starts on June 1st, I was encourage by my advisor to attend a
 
 ##### Ansatz
 
+##### Sharp and Unsharp measurement in Quantum Mechanics
+
 #### Dr. Marco Pistoia (JPMorgan Chase): Quantum Computing for Financial Use Cases
 
 ##### Quantum Computing Providers

@@ -1,7 +1,8 @@
 ---
 title: "Quantum Computing Conference"
 date: 2021-05-25T15:43:32-05:00
-draft: true
+draft: false
+tags: ["Quantum Computing", "Argonne", "Conferences"]
 ---
 
 ## Conference: Quantum Information for Mathematics, Economics, and Statistics
